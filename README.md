@@ -1,6 +1,6 @@
 ### Hi there, I am Aditya 👋
 
-<!--
+
 **srwaditya/srwaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help..
 - 📫 How to reach me: srw.aditya@gmail.com
 - 😄 Pronouns: Comedy 
-- ⚡ Fun fact: Your highest blood flow is in your kidneys-->
+- ⚡ Fun fact: Your highest blood flow is in your kidneys
