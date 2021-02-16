@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 👨🏾‍💻 I am a Data Scientist  in Infinite Computer Soloution Inc. 
+- 👨🏾‍💻 I am a Software Engineer  in Infinite Computer Soloution Inc. 
 - 🔭 I’m interested are Web Developement💻& Data Analysis & Data Scientist📊- , Cricket🏏🌱 , Travling 🛣
 - 💻 currently learning  Deep Learning & NLP
 - 👯 I’m looking to collaborate on POS(Point Of Sales)
