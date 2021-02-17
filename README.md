@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ### Follow me
 
 [![Linkedin Badge](https://img.shields.io/badge/-srwaditya-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-shrivastava-836915161/)](https://www.linkedin.com/in/aditya-shrivastava-836915161/) [![Instagram Badge](https://img.shields.io/badge/-@aditya.srw-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/aditya.srw/)](https://www.instagram.com/aditya.srw/)
-[![Twitter Badge](https://img.shields.io/badge/-@srwaditya-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/srwaditya)
+[![Twitter Badge](https://img.shields.io/badge/-@srwaditya-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/srwaditya)](https://twitter.com/srwaditya/)
