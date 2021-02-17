@@ -1,6 +1,5 @@
-<a href="https://github.com/srwaditya/">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=srwaditya&show_icons=true&theme=dark&line_height=27" alt="Aditya Shrivastava github stats"/>
-</a>
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 
 ## Hi there, I'm  Aditya (https://github.com/srwaditya/) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
