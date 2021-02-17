@@ -1,6 +1,6 @@
 
 
-## Hi there, I'm  Aditya (https://github.com/srwaditya/) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+## Hi there, I'm  Aditya (https://srwaditya.github.io/) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 <p>
   <em>
@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<em> Want to know more about me? [Click here](https://github.com/srwaditya/) </em>
+<em> Want to know more about me? [Click here](https://srwaditya.github.io/) </em>
 <em>
 
 
@@ -69,4 +69,4 @@
 ### Follow Me On Social Networking Site
 
 [![Linkedin Badge](https://img.shields.io/badge/-srwaditya-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-shrivastava-836915161/)](https://www.linkedin.com/in/aditya-shrivastava-836915161/) [![Instagram Badge](https://img.shields.io/badge/-@aditya.srw-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/aditya.srw/)](https://www.instagram.com/aditya.srw/)
-[![Twitter Badge](https://img.shields.io/badge/-@srwaditya-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/srwaditya)](https://twitter.com/srwaditya/)
+[![Twitter Badge](https://img.shields.io/badge/-@srwaditya-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/srwaditya)](https://twitter.com/srwaditya/) [![Github Badge](https://img.shields.io/badge/-@srwaditya-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://srwaditya.github.io/](https://srwaditya.github.io/)
