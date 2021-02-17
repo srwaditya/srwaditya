@@ -3,7 +3,7 @@
 
 <**srwaditya/srwaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.->
 
-## Hi there, I'm [Aditya](https://github.com/srwaditya/! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+## Hi there, I'm  Aditya (https://github.com/srwaditya/) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 <p>
   <em>
