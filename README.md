@@ -17,7 +17,7 @@
 
 **Here About my Self***
 
-- 👨🏾‍💻 I am a Software Engineer  in Infinite Computer Soloution Inc. 
+- 👨🏾‍💻 I am a Software Engineer  in CGI. 
 - 🔭 I’m interested are Web Developement💻& Data Analysis & Data Scientist📊- , Cricket🏏🌱 , Travling 🛣
 - 💻 I am currently learning  Deep Learning & NLP
 - 👯 I’m looking to collaborate on POS(Point Of Sales)
