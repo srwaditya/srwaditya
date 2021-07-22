@@ -40,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srwaditya&show_icons=true&locale=en" alt="srwaditya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srwaditya&" alt="srwaditya" /></p>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
