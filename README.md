@@ -17,11 +17,10 @@
 
 **Here About my Self***
 
-- 👨🏾‍💻 I am a Software Engineer  in CGI. 
+- 👨🏾‍💻 I am a Senior Software Engineer  in CGI. 
 - 🔭 I’m interested are Web Developement💻& Data Analysis & Data Scientist📊- , Cricket🏏🌱 , Travling 🛣
-- 💻 I am currently learning  Deep Learning & NLP
-- 👯 I’m looking to collaborate on POS(Point Of Sales)
-- 🤔 I’m looking for help with UI for POS.
+- 💻 I am currently doing my MS in Data Science from Liver Pool John Mooore University from Liverpool(Online full time)
+- 👯 I’m looking to  work as freelenser for any Data Scince Project ...
 - 💬 Ask me about anything, I am happy to help..
 - 📫 How to reach me: srw.aditya@gmail.com
 - 😄 Pronouns: nothing  
