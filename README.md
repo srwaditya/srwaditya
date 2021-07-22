@@ -37,7 +37,8 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=srwaditya&langs_count=5&theme=tokyonight)]()
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srwaditya&show_icons=true&locale=en" alt="srwaditya" /></p>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=srwaditya&count_private=true&theme=tokyonight&showicons=true)]()
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srwaditya&" alt="srwaditya" /></p>
 
