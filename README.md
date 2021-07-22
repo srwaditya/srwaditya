@@ -1,23 +1,25 @@
-<h1 align="center">Hi 👋, I'm Aditya </h1>
+<h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate Software Developer from India, Bangalore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srwaditya&label=Profile%20views&color=0e75b6&style=flat" alt="srwaditya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srwaditya" alt="srwaditya" /></a> </p>
 
-- 🔭 I’m currently working on **CGI Inc, As a Senior Software Engineer.**
+- 🔭 I’m currently working on **CGI Inc, as a Senior Software Engineer.**
 
-- 🌱 I’m currently learning **Django, Flask**
+- 🌱 I’m currently learning **Django, Flask, Machine Learning , Deep learning**
 
 - 👯 I am currently doing my MS in Data Science **from Liver Pool John Moore University**
 
 - 🤝 I’m looking to work as freelancer for any **Data Science Project**
 
-- 👨‍💻 All of my projects are available at [https://srwaditya.github.io/](https://srwaditya.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/srwaditya](https://github.com/srwaditya)
 
 - 💬 Ask me about **React, Vue,Python, Data Science**
 
-- 📫 How to reach me **srw.aditya@gmail.com**
+- 📫 How to reach me **srw.aditya@outlook.com**
+
+- Please visit to my portfolio [https://srwaditya.github.io/](https://srwaditya.github.io/)
 
 - ⚡ Fun fact **I think I am honest and helpful person.**
 
