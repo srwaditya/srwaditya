@@ -35,10 +35,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/srwaditya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="srwaditya" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srwaditya&show_icons=true&locale=en&layout=compact" alt="srwaditya" /></p>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=srwaditya&langs_count=5&theme=tokyonight)]()
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srwaditya&show_icons=true&locale=en" alt="srwaditya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srwaditya&" alt="srwaditya" /></p>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+
