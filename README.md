@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srwaditya" alt="srwaditya" /></a> </p>
 
-- 🔭 I’m currently working on **CGI Inc, as a Senior Software Engineer.**
+- 🔭 I’m currently working on  as a Senior Software Engineer.**
 
 - 🌱 I’m currently learning **Django, Flask, Machine Learning , Deep learning**
 
